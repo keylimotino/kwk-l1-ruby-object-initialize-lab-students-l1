@@ -20,4 +20,4 @@ end
 
 fido = Dog.new("Snoopy")
 
-fido.inspect
+puts fido.inspect
