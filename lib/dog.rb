@@ -13,4 +13,4 @@ end
 
 fido = Dog.new
 
-puts = "#{name}"
+puts = @name
