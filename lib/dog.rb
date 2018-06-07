@@ -11,6 +11,6 @@ class Dog
 
 end
 
-fido = Dog.new 
+fido = Dog.new
 
-puts = Dog.new
+puts = "#{name}"
