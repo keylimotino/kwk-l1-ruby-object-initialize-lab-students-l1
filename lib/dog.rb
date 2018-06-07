@@ -10,3 +10,7 @@ class Dog
   end
 
 end
+
+fido = Dog.new 
+
+puts = Dog.new
