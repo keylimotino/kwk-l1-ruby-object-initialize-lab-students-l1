@@ -18,6 +18,6 @@ class Dog
 end
 
 
-fido = Dog.new("Snoopy")
+fido = Dog.new("Snoopy", "Yorkie")
 
 puts fido.inspect
